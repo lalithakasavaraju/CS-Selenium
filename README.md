@@ -8,6 +8,8 @@ to run with tags:
 
 $ mvn test -Dcucumber.options="--tags @cookieBanner"
 
+"New message"
+
 Available browsers - Chrome
 
 
