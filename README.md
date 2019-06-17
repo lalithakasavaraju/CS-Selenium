@@ -10,6 +10,8 @@ $ mvn test -Dcucumber.options="--tags @cookieBanner"
 
 "New message"
 
+"Another message"
+
 Available browsers - Chrome
 
 
