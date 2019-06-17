@@ -14,5 +14,11 @@ $ mvn test -Dcucumber.options="--tags @cookieBanner"
 
 Available browsers - Chrome
 
+"Fdfjdjhfjhdjfhjdg"
+"Fdhfjhdjhfjds"
+
+
+
+
 
 
